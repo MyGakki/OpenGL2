@@ -1,0 +1,3 @@
+"G:\CLion 2017.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\OpenGL1.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\OpenGL1.dir/objects.a @CMakeFiles\OpenGL1.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\OpenGL1.dir/objects.a -Wl,--no-whole-archive  -o OpenGL1.exe -Wl,--out-implib,libOpenGL1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OpenGL1.dir\linklibs.rsp

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/HopePower/CLionProjects/OpenGL2/main.cpp
+windows.h
+C:/Users/HopePower/CLionProjects/OpenGL2/windows.h
+glut.h
+-
+math.h
+-
+
+C:/Users/HopePower/Documents/GLUT/glut.h
+windows.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+
